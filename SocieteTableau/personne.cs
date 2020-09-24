@@ -71,9 +71,9 @@ namespace SocieteTableau
             }
         }
 
-        public static int operator ++(int c)
-        {
-            return c = c + 1;
-        }
+       // public static int operator ++(int c)
+        //{
+          //  return c = c + 1;
+        //}
     }
 }
