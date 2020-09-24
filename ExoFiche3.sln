@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo1", "ExoFiche3\Exo1.csproj", "{4C338BE4-456F-4C41-95AF-B1B24BBA6D16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo1", "ExoFiche3\Exo1.csproj", "{4C338BE4-456F-4C41-95AF-B1B24BBA6D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo2", "Exo2\Exo2.csproj", "{5063BC79-2AA8-4ED4-A71D-967E475B1B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo2", "Exo2\Exo2.csproj", "{5063BC79-2AA8-4ED4-A71D-967E475B1B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo3", "Exo3\Exo3.csproj", "{03C8AC45-E034-451B-8309-9D588708B6E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5063BC79-2AA8-4ED4-A71D-967E475B1B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5063BC79-2AA8-4ED4-A71D-967E475B1B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5063BC79-2AA8-4ED4-A71D-967E475B1B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C8AC45-E034-451B-8309-9D588708B6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C8AC45-E034-451B-8309-9D588708B6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C8AC45-E034-451B-8309-9D588708B6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C8AC45-E034-451B-8309-9D588708B6E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
